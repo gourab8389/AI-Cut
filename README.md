@@ -29,5 +29,5 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ai-cut.git
+   [git clone https://github.com/your-username/ai-cut.git](https://github.com/gourab8389/AI-Cut.git)
    cd ai-cut
